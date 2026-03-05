@@ -23,8 +23,6 @@ This project demonstrates practical **computer vision, deep learning, and real-t
 ### Object Tracking Example
 <img src="demo/demo2.png" width="700">
 
-*(Add screenshots of your app here for better portfolio impact)*
-
 ---
 
 # 🚀 Features
